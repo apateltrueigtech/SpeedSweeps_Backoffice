@@ -8,3 +8,4 @@ blob-report/
 **/*.png
 **/*.zip
 **/*.webm
+node_modules
